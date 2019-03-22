@@ -1,0 +1,53 @@
+.elementor-12 .elementor-element.elementor-element-7eab2a5 {
+    background-image: url("http://emergex.tv/wp-content/uploads/2019/03/Top-Header.png");
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin-top: -14px;
+    margin-bottom: -14px;
+    padding: -22px -22px -22px -22px;
+}
+
+.elementor-12 .elementor-element.elementor-element-7eab2a5 > .elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-12 .elementor-element.elementor-element-44e31de .elementor-spacer-inner {
+    height: 50px;
+}
+
+.elementor-12 .elementor-element.elementor-element-011fe8d {
+    text-align: center;
+}
+
+.elementor-12 .elementor-element.elementor-element-011fe8d.elementor-widget-heading .elementor-heading-title {
+    color: #000000;
+}
+
+.elementor-element-7eab2a5 {
+    background-image: none !important;
+    background-color: transparent !important;
+}
+
+.elementor-element-011fe8d section {
+    display: inline-block;
+    padding: 20px 10px;
+    border-image-slice: 1;
+    border-width: 2px;
+    border-style: solid;
+    border-image: linear-gradient(to right, rgba(214, 33, 42, 0), rgba(214, 33, 42, 1), rgba(214, 33, 42, 0)) 1%;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;;
+}
+
+.section-image {
+    float: left;
+    width: 30%;
+}
+
+.section-content {
+    float: left;
+    margin-left: 10%;
+    max-width: 60%;
+    min-width: 60%;
+    text-align: left;
+}
